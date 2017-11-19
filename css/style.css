@@ -1,0 +1,18 @@
+   * {
+   	box-sizing: border-box;
+   }
+
+   body {
+   	margin: 0;
+   }
+
+   #photo h1 {
+   	font-family: 'Verdana', sans-serif;
+   }
+
+   #rwd {
+   	position: relative;
+   	background-size: cover;
+   	background-position: center;
+   	background-repeat: no-repeat;
+   }
